@@ -9,6 +9,9 @@ The problem here is that the only reason you wanted to borrow the money is so yo
 So you spend it on that pizza. Now the pizza guy has $20, you have $0, and a debt for $20. Now you have negative $20.
 So in this scenario, the people who have the money aren’t the people who bought government bonds, they don’t have money they have an IOU from the government. The government doesn’t have the money, because they spent it on stuff like aircraft carriers and social security. So the people who have the money are the aircraft carrier manufacturers and the old folks on social security. Except they don’t have the money either, since they already spent it on things like hookers, cocaine, rent, and food.
 
+# ## Dataset
+World Bank International Debt Statistics (CSV format)
+
 
 # Project Tasks ... 
 
