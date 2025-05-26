@@ -8,6 +8,9 @@ The world's debt situation has become more complicated in recent years. Many cou
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213738.png?raw=true)
 ![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213810.png?raw=true)
 
+The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+https://datatopics.worldbank.org/debt/ids/country/CHN
+
 Think of it this way. If you borrow $20 from your buddy, who has the money? You have the money. You’re in debt to him for $20, but you have the $20. You started with $0, now you have two things, a debt for $20 and $20, which adds up to $0.
 The problem here is that the only reason you wanted to borrow the money is so you could spend it today.
 So you spend it on that pizza. Now the pizza guy has $20, you have $0, and a debt for $20. Now you have negative $20.
