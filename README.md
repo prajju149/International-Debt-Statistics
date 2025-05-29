@@ -8,6 +8,9 @@ The world's debt situation has become more complicated in recent years. Many cou
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213738.png?raw=true)
 ![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213810.png?raw=true)
 
+## Project pdf ----
+(https://drive.google.com/file/d/1EXnmZIvm_bo1TMe0pjhWQsW9pvsir76S/view?usp=sharing)
+
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 https://datatopics.worldbank.org/debt/ids/country/CHN
 
