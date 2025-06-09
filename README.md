@@ -13,7 +13,7 @@ World Bank International Debt Statistics
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/Data%20Preprocessing/images/Screenshot%202025-05-25%20213738.png)
 
 ## Project pdf ----
-![project_pdf](https://drive.google.com/file/d/1EXnmZIvm_bo1TMe0pjhWQsW9pvsir76S/view?usp=sharing)
+![project_pdf](https://drive.google.com/file/d/1DIOx9htvlUBGhf7l1R9mDwcdVzce46Uf/view?usp=sharing)
 
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 https://datatopics.worldbank.org/debt/ids/country/CHN
