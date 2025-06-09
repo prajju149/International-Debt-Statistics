@@ -5,8 +5,8 @@ This project aims to Analyze international debt statistics and delve into the ke
 The world's debt situation has become more complicated in recent years. Many countries owe more money, and there are concerns about whether they can pay it back. The COVID-19 pandemic made things worse, causing governments to borrow even more money.
 
 ## Screenshots ----
-![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213738.png?raw=true)
-![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/main/image/Screenshot%202025-05-25%20213810.png?raw=true)
+![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1286).png)
+![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/Data%20Preprocessing/images/Screenshot%202025-05-25%20213738.png)
 
 ## Project pdf ----
 (https://drive.google.com/file/d/1EXnmZIvm_bo1TMe0pjhWQsW9pvsir76S/view?usp=sharing)
