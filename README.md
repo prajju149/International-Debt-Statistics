@@ -6,14 +6,14 @@ The world's debt situation has become more complicated in recent years. Many cou
 
 # ## Dataset
 World Bank International Debt Statistics 
-(https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/international_debt%20(1).csv)
+![csv file](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/international_debt%20(1).csv)
 
 ## Screenshots ----
 ![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1286).png)
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/Data%20Preprocessing/images/Screenshot%202025-05-25%20213738.png)
 
 ## Project pdf ----
-(https://drive.google.com/file/d/1EXnmZIvm_bo1TMe0pjhWQsW9pvsir76S/view?usp=sharing)
+![project_pdf](https://drive.google.com/file/d/1EXnmZIvm_bo1TMe0pjhWQsW9pvsir76S/view?usp=sharing)
 
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 https://datatopics.worldbank.org/debt/ids/country/CHN
@@ -30,7 +30,22 @@ So in this scenario, the people who have the money aren’t the people who bough
 3. 🥧 **Debt Sector Distribution** (Pie Chart)
 4. 🔵 **GDP vs Debt with Bubbles** (Animated Scatter Plot)
 
+## 📝 Insights & Findings
 
+USA has the highest debt in absolute terms, maintaining ~125% debt-to-GDP ratio.
+Japan also exhibits a very high debt burden relative to GDP.
+Emerging economies like India and Brazil are showing rising debt trends.
+Public sector debt dominates across all countries in the dataset.
+
+👤 Author
+
+Name: Your Name
+
+GitHub: [Your GitHub Link]
+
+📜 License
+
+This project is licensed under the MIT License.
 
 # Project Tasks ... 
 
@@ -42,3 +57,13 @@ So in this scenario, the people who have the money aren’t the people who bough
 6) Average amount of debt across indicators
 7)The highest amount of principal repayments
 8) The most common debt indicator
+
+👤 Author
+
+Name: Arjun Kumar
+
+GitHub: [my profile](https://github.com/prajju149)]
+
+📜 License
+
+This project is licensed under the MIT License.
