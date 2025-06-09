@@ -4,6 +4,8 @@ Analyzes global debt data to explore trends, key borrowers, and financial risks 
 This project aims to Analyze international debt statistics and delve into the key aspects of international debt statistics, providing insights into definitions, trends, and the significance of such analysis in the global economy.  
 The world's debt situation has become more complicated in recent years. Many countries owe more money, and there are concerns about whether they can pay it back. The COVID-19 pandemic made things worse, causing governments to borrow even more money.
 
+![project documentation](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Project_Documentation.pdf)
+
 # ## Dataset
 World Bank International Debt Statistics 
 ![csv file](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/international_debt%20(1).csv)
