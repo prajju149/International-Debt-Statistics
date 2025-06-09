@@ -4,6 +4,10 @@ Analyzes global debt data to explore trends, key borrowers, and financial risks 
 This project aims to Analyze international debt statistics and delve into the key aspects of international debt statistics, providing insights into definitions, trends, and the significance of such analysis in the global economy.  
 The world's debt situation has become more complicated in recent years. Many countries owe more money, and there are concerns about whether they can pay it back. The COVID-19 pandemic made things worse, causing governments to borrow even more money.
 
+# ## Dataset
+World Bank International Debt Statistics 
+(https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/international_debt%20(1).csv)
+
 ## Screenshots ----
 ![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1286).png)
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/Data%20Preprocessing/images/Screenshot%202025-05-25%20213738.png)
@@ -19,8 +23,13 @@ The problem here is that the only reason you wanted to borrow the money is so yo
 So you spend it on that pizza. Now the pizza guy has $20, you have $0, and a debt for $20. Now you have negative $20.
 So in this scenario, the people who have the money aren’t the people who bought government bonds, they don’t have money they have an IOU from the government. The government doesn’t have the money, because they spent it on stuff like aircraft carriers and social security. So the people who have the money are the aircraft carrier manufacturers and the old folks on social security. Except they don’t have the money either, since they already spent it on things like hookers, cocaine, rent, and food.
 
-# ## Dataset
-World Bank International Debt Statistics (CSV format)
+
+## 📊 Visualizations
+1. 📈 **Debt Trend by Country** (Line Chart)
+2. 📊 **Average Debt % of GDP** (Bar Chart)
+3. 🥧 **Debt Sector Distribution** (Pie Chart)
+4. 🔵 **GDP vs Debt with Bubbles** (Animated Scatter Plot)
+
 
 
 # Project Tasks ... 
