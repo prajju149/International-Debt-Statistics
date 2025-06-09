@@ -2,17 +2,21 @@
 Analyzes global debt data to explore trends, key borrowers, and financial risks in developing countries.
 
 This project aims to Analyze international debt statistics and delve into the key aspects of international debt statistics, providing insights into definitions, trends, and the significance of such analysis in the global economy.  
-The world's debt situation has become more complicated in recent years. Many countries owe more money, and there are concerns about whether they can pay it back. The COVID-19 pandemic made things worse, causing governments to borrow even more money.
 
+## Visual Representation by Power BI
+![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1286).png)
+
+## Project Documentation
 ![project documentation](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Project_Documentation.pdf)
 
-# ## Dataset
+## Dataset
 World Bank International Debt Statistics 
 ![csv file](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/international_debt%20(1).csv)
 
 ## Screenshots ----
-![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1286).png)
 ![screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/Data%20Preprocessing/images/Screenshot%202025-05-25%20213738.png)
+
+The world's debt situation has become more complicated in recent years. Many countries owe more money, and there are concerns about whether they can pay it back. The COVID-19 pandemic made things worse, causing governments to borrow even more money.
 
 ## Project pdf ----
 ![project_pdf](https://github.com/prajju149/International-Debt-Statistics/blob/main/International%20Debt%20Statistics%20...pdf)
@@ -39,15 +43,6 @@ Japan also exhibits a very high debt burden relative to GDP.
 Emerging economies like India and Brazil are showing rising debt trends.
 Public sector debt dominates across all countries in the dataset.
 
-👤 Author
-
-Name: Your Name
-
-GitHub: [Your GitHub Link]
-
-📜 License
-
-This project is licensed under the MIT License.
 
 # Project Tasks ... 
 
