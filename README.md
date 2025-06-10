@@ -4,7 +4,7 @@ Analyzes global debt data to explore trends, key borrowers, and financial risks 
 This project aims to Analyze international debt statistics and delve into the key aspects of international debt statistics, providing insights into definitions, trends, and the significance of such analysis in the global economy.  
 
 ## Project Documentation
-![project documentation](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Interpretation%20and%20storytelling/International_Debt_Statistics_Project_Documentation.pdf)
+![Interpretation and storytelling](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Interpretation%20and%20storytelling/International_Debt_Statistics_Project_Documentation.pdf)
 
 ## Visual Representation by Power BI
 ![Screenshot](https://github.com/prajju149/International-Debt-Statistics/blob/main/src/main/src/data%20visualization/Screenshots/Screenshot%20(1288).png)
